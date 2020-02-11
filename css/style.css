@@ -1,0 +1,40 @@
+.prod-img {
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.customer-img {
+	width: 100%;
+	max-width: 250px;
+}
+
+.background-img {
+	background-size: cover;
+	background-origin: center;
+	background-image: url("../img/towerbridge_tl.png");
+}
+
+.nav-bar {
+	border-bottom: solid black
+}
+
+.help-bar {
+	/*background-color: linear-gradient(to-right, white, blue);*/
+	border-left: solid black;
+	font-family: 'Lacquer', sans-serif;
+}
+
+.bug-img {
+	float: left;
+	margin: 10px;
+	margin-left: 0px;
+}
+
+.sub-headings {
+	font-family: 'Russo One', sans-serif;
+}
+
+.book-button {
+	text-align: center;
+}
